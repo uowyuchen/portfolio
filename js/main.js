@@ -21,7 +21,7 @@ window.onscroll = function () {
 // Typing
 window.onload = function () {
   var str =
-    "My name is Zhen Li. I am an experienced Web Developer. I specialize in not only HTML, CSS, JavaScript and JavaScript library such as React, but also I am passionate about back-end development mainly using PHP, NodeJs, and Express.";
+    "My name is Zhen Li. I am an experienced Web Developer. I specialize in not only HTML, CSS, JavaScript and JavaScript library such as React, but also I am passionate about back-end development mainly using WordPres, WooCommerce, PHP, NodeJs, and Express.";
 
   var spans = "<span>" + str.split("").join("</span><span>") + "</span>";
   $(spans)
